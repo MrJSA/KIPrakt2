@@ -1,0 +1,10 @@
+numpy
+matplotlib
+seaborn
+scikit-learn
+scikit-image
+jupyter
+pandas
+scipy
+tensorflow
+optuna
